@@ -42,12 +42,12 @@ person.lastname = "ffff"
 //console.log(`Je suis ${person.firstname} mon age et de ${person.age}`);
 //console.log(person["firstname"]);
 
-var testArray = ["fraise", "orange", "melon", "banane", "framboise"];
+var Fruits = ["fraise", "orange", "melon", "banane", "framboise"];
 var fruit={couleur:"vert_claire",forme:"rond",nom:"melon",gout:"sucré"};
 /*NE PAS SENS SERVIR
 testArray[0] = "Manon"
 testArray[1] = "1"
 testArray[2] = "true"
 */
-console.log(testArray[2]);
+console.log(Fruits[2]);
 console.log(fruit);
